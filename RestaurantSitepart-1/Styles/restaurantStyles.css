@@ -1,0 +1,50 @@
+header, footer{
+  background-color:#5b7d87;
+  color:#fef9ff;
+  height: 130px;
+  padding: 30px 10px 20px 10px;
+  text-align: center;
+}
+a{
+background-color: lightgray;
+padding: 15px 10px 0px 10px;
+
+}
+
+a .btn{
+background-color: #5b7d87;
+color: #fef9ff;
+}
+a:hover{
+  font-weight: bold;
+}
+
+h1{
+  font-family: cursive;
+}
+body{
+  background-color: #e4c3ad;
+}
+
+.carousel {
+  color: #3b0000;
+  font-size: 2em;
+  font-family: cursive;
+}
+
+a:active {
+    font-weight: bold;
+    color: purple;
+}
+
+a:visited {
+  color: black;
+}
+
+.col-md-4{
+  font-weight: bold;
+}
+
+.row p {
+  font-weight: bold;
+}
